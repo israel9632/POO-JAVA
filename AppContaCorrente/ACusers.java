@@ -1,4 +1,4 @@
-package POO.ADO01;
+package AppContaCorrente;
 
 public class ACusers {
     public static AppAC[] users = new AppAC[5];

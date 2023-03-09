@@ -1,4 +1,4 @@
-package POO.ADO01;
+package AppContaCorrente;
 
 import java.util.Scanner;
 
